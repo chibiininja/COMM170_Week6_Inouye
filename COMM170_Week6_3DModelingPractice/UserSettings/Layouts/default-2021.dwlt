@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1920
     height: 998
   m_ShowMode: 4
-  m_Title: Game
+  m_Title: Hierarchy
   m_RootView: {fileID: 6}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -48,7 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 503, y: 321}
   m_MaxSize: {x: 16192, y: 12117}
   vertical: 0
-  controlID: 74
+  controlID: 15
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -223,7 +223,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 321}
   m_MaxSize: {x: 8096, y: 12117}
   vertical: 1
-  controlID: 75
+  controlID: 16
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -248,7 +248,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 221}
   m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
-  controlID: 76
+  controlID: 17
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -318,22 +318,22 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Materials
+    - Assets/Photogrammetry 3D Models
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Materials
+  - Assets/Photogrammetry 3D Models
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\Imaginarium Admin\Documents\GitHub\COMM170_Week6_Inouye\COMM170_Week6_3DModelingPractice
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: b65b0000
-    m_LastClickedID: 23478
-    m_ExpandedIDs: 00000000105b0000965b0000e25b00005e5c0000665c000000ca9a3b
+    m_SelectedIDs: f2570000
+    m_LastClickedID: 22514
+    m_ExpandedIDs: 00000000da57000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -361,7 +361,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 
+    m_ExpandedIDs: 00000000da570000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -491,9 +491,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 565b0000
-      m_LastClickedID: 23382
-      m_ExpandedIDs: b0c9fffff8f7ffff32f9ffff80f9ffff2efbffff
+      m_SelectedIDs: 
+      m_LastClickedID: 0
+      m_ExpandedIDs: 16fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -776,9 +776,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 0.41637987, y: 0.96761036, z: 10.48866}
+    m_Target: {x: 1.9316145, y: 1.9183202, z: -6.9708033}
     speed: 2
-    m_Value: {x: 0.41637987, y: 0.96761036, z: 10.48866}
+    m_Value: {x: 1.9316145, y: 1.9183202, z: -6.9708033}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -825,13 +825,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.076732345, y: -0.00688218, z: 0.00052991824, w: -0.9970287}
+    m_Target: {x: -0.091551766, y: -0.18500896, z: 0.017314097, w: -0.978314}
     speed: 2
-    m_Value: {x: -0.0767314, y: -0.008377708, z: 0.0006450156, w: -0.99701643}
+    m_Value: {x: -0.091525316, y: -0.18647546, z: 0.017451335, w: -0.9780314}
   m_Size:
-    m_Target: 12.490753
+    m_Target: 3.8133636
     speed: 2
-    m_Value: 11.952874
+    m_Value: 3.6491518
   m_Ortho:
     m_Target: 0
     speed: 2
